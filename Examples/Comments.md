@@ -1,3 +1,3 @@
 # Примеры реузльтатов практики
 Графики, получающиеся для демонстрационного варианта:
-$\quad D_1 = D_2 = { z\in\mathbb{C}: |z|\leq|\cos(4\arg(z)/3)| }, \quad f(z)=g(z)=\sinh(z).$
+$\quad D_1 = D_2 = \\{ z\in\mathbb{C}: |z|\leq|\cos(4\arg(z)/3)|\\}, \quad f(z)=g(z)=\sinh(z).$
