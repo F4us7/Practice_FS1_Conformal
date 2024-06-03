@@ -12,3 +12,7 @@
 8. Бурцева А.П. (Вараинт 3): отлично (https://github.com/Nastya021/Practice);
 9. Михайленко В.В. (Вариант 14): отлично (https://github.com/Lera1M/Practice_4_semester);
 10. Гончаренко Д.Д. (Вариант 7): отлично;
+11. Хазеев И.И. (Вариант 20): отлично;
+12. Горбачевская А.?. (Вариант 8): отлично (https://github.com/Nestasya/Practice-);
+13. Багура Д.А. (Вариант 2): отлично (https://github.com/N1ghtLovell/practice_BaguraDenis_FS1-41B);
+14. Фурунджи А.Р. (Вариант 19): отлично (https://github.com/ArseniyFurundzhi/practice_Furundzhi_Arseniy_FS1-41B).
