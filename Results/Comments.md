@@ -17,4 +17,5 @@
 13. Багура Д.А. (Вариант 2): отлично (https://github.com/N1ghtLovell/practice_BaguraDenis_FS1-41B);
 14. Фурунджи А.Р. (Вариант 19): отлично (https://github.com/ArseniyFurundzhi/practice_Furundzhi_Arseniy_FS1-41B)
 15. Шодиев М.Ш. (Вариант 22): отлично;
+16. Федорова В.?. (Вариант 18): отлично (https://github.com/VictoryFN1/-).
 
