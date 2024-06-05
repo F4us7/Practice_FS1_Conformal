@@ -15,4 +15,6 @@
 11. Хазеев И.И. (Вариант 20): отлично;
 12. Горбачевская А.?. (Вариант 8): отлично (https://github.com/Nestasya/Practice-);
 13. Багура Д.А. (Вариант 2): отлично (https://github.com/N1ghtLovell/practice_BaguraDenis_FS1-41B);
-14. Фурунджи А.Р. (Вариант 19): отлично (https://github.com/ArseniyFurundzhi/practice_Furundzhi_Arseniy_FS1-41B).
+14. Фурунджи А.Р. (Вариант 19): отлично (https://github.com/ArseniyFurundzhi/practice_Furundzhi_Arseniy_FS1-41B)
+15. Шодиев М.Ш. (Вариант 22): отлично;
+
